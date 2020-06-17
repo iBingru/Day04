@@ -3,7 +3,7 @@
 
 ### 主要内容
 
-* JavaScript 基本概念
+* JavaScript 是什么？能做什么？
 * 第一个JS程序——Hello World
 * 第一个JS特效——鼠标提示框
 * 第二个JS特效——Hao123广告删除
